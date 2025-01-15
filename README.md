@@ -16,7 +16,7 @@ Welcome to JawaOS, an HTML5-based operating system that brings the nostalgic Win
 
 ## Getting Started
 
-Explore JawaOS directly in your browser by visiting [JawaOS.com](https://mangycat.github.io/JawaOS/).
+Explore JawaOS directly in your browser by visiting [JawaOS](https://mangycat.github.io/JawaOS/).
 
 ## Contributing
 
